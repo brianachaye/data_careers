@@ -231,7 +231,7 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 - **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
 - **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
 
-# Conclusions
+# 📌 Conclusions
 
 ### Insights
 From the analysis, several general insights emerged:
@@ -242,8 +242,7 @@ From the analysis, several general insights emerged:
 4. **Skills with Higher Salaries**: Specialized skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise.
 5. **Optimal Skills for Job Market Value**: SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
-### Closing Thoughts
-
+### Final Thoughts
 
 This project sharpened my SQL skills while uncovering actionable insights for data analysts. By focusing on high-demand, high-salary skills, job seekers can strategically enhance their career prospects.
 
