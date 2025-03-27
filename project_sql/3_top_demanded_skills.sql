@@ -23,6 +23,7 @@ ORDER BY
 LIMIT 5
 
 /*
+
 Key Takeaways:
     - SQL is #1 – Appeared in 7,291 postings (58% more than Excel), making it the essential skill.
     - Excel > Python – Traditional tools (Excel: 4,611) still edge out programming (Python: 4,330), but the gap is narrow.
@@ -39,4 +40,5 @@ Why It Matters
     - Python’s near-parity with Excel signals a shift toward programming in analytics.
     - Tableau’s lead suggests it remains the top choice for data visualization.
     - This data confirms that 2023’s data analysts need hybrid skills—bridging classic tools and modern tech.
+
 */

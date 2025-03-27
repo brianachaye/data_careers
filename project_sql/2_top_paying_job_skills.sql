@@ -38,6 +38,7 @@ ORDER BY
     salary_year_avg DESC
 
 /*
+
 Key Insights from the Skills:
 
 Top 3 Most In-Demand Skills:
@@ -59,4 +60,5 @@ Version Control & Collaboration Tools:
 Less Common but Valuable Skills:
     - Power BI (2 mentions) – Another strong business intelligence tool.
     - Jupyter, Numpy (2 mentions each) – Popular for data science workflows.
+
 */
